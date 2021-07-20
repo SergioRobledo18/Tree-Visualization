@@ -1,4 +1,4 @@
-# Tree-Vizualization
+# Tree-Visualization
 
 
 Order to create an anaconda environment and install the correct packages.
